@@ -1,3 +1,5 @@
+<!-- Header visual -->
+![Header](https://raw.githubusercontent.com/brigidoq/brigidoq/main/assets/header-dark.gif)
 # 👋 Hola, soy **Brígido Quezada Orellana**
 
 ## 🚀 Sobre mí
