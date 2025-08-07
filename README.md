@@ -1,7 +1,7 @@
 # 👋 Hola, soy **Brígido Quezada Orellana**
 
 ## 🚀 Sobre mí
-Soy desarrollador **backend** con pasión por **Python y Node.js**. Me encanta construir herramientas que resuelvan problemas reales. Trabajo con enfoque en automatización, monitoreo y calidad de software. Me gusta colaborar en equipos ágiles y en armonía.
+Soy desarrollador **backend** con pasión por **Python y Node.js**. Me encanta construir herramientas que resuelvan problemas reales. He trabajado en el frameworks de Laravel y PHP. Trabajo con enfoque en automatización, monitoreo y calidad de software. Me gusta colaborar en equipos ágiles y en armonía.
 
 ---
 
