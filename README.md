@@ -3,6 +3,7 @@
 ## 🚀 Sobre mí
 Soy desarrollador **backend** con pasión por **Python y Node.js**. Me encanta construir herramientas que resuelvan problemas reales. He trabajado con el framework Laravel, integrando PHP y JavaScript en el stack backend-frontend. Trabajo con enfoque en automatización, monitoreo y calidad de software. Me gusta colaborar en equipos ágiles y en armonía. Disfruto colaborar en equipos multidisciplinarios, fomentando la comunicación efectiva.
 
+Me gusta ser autodidacta. Apasionado en la integración de LLM'S con aplicaciones utilizando python para automatizar las tareas repetitivas en cualquier entonrno. Aprender a conectar modelos generativos con apps.
 ---
 
 ## 🛠️ Tecnologías
