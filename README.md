@@ -2,7 +2,8 @@
 <video autoplay muted loop width="100%">
   <source src="https://raw.githubusercontent.com/brigidoq/brigidoq/main/header.mp4" type="video/mp4">
 </video>
-# 👋 Hola, soy **Brígido Quezada Orellana**
+
+ 👋 Hola, soy **Brígido Quezada Orellana**
 
 ## 🚀 Sobre mí
 Soy desarrollador **backend** con pasión por **Python y Node.js**. Me encanta construir herramientas que resuelvan problemas reales. He trabajado con el framework Laravel, integrando PHP y JavaScript en el stack backend-frontend. Trabajo con enfoque en automatización, monitoreo y calidad de software. Me gusta colaborar en equipos ágiles y en armonía. Disfruto colaborar en equipos multidisciplinarios, fomentando la comunicación efectiva.
