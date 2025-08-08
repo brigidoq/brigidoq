@@ -1,6 +1,6 @@
 <!-- Header visual -->
 <video autoplay muted loop width="100%">
-  <source src="https://raw.githubusercontent.com/brigidoq/brigidoq/main/assets/header.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/brigidoq/brigidoq/main/assets/header.gif" type="video/mp4">
 </video>
 
 ## 👋 Hola, soy **Brígido Quezada Orellana**
