@@ -1,5 +1,5 @@
 <!-- Header visual -->
-![Header](https://raw.githubusercontent.com/brigidoq/brigidoq/main/assets/header.gif)
+![Header](https://raw.githubusercontent.com/brigidoq/brigidoq/main/assets/header.gif?v=20240808)
 
 ## 👋 Hola, soy **Brígido Quezada Orellana**
 
